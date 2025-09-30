@@ -60,9 +60,9 @@ DATABASE_URL="mongodb://localhost:27017/your-database-name"
 
 ## Contact Information
 
-- Telegram: @your_telegram_id
-- Twitter: @your_twitter_id
-- Contact Number: +1234567890
+- Telegram: @khandelwalx1shh
+- Twitter: @VanshK25500
+- Contact Number: +917976024405
 
 ## Contributing
 
